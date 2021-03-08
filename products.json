@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "title": "Gaming Mouse",
+      "price": "40",
+      "image": "./images/productosNuevos/mouse-rosa-1.png",
+      "category": "featured"
+    },
+    {
+      "title": "Mini USB Streaming Microphone",
+      "price": "69",
+      "image": "./images/productosNuevos/microfono-rosa.png",
+      "category": "trend"
+    },
+    {
+      "title": "PowerA Protection Case for Nintendo Switch or Nintendo Switch Lite",
+      "price": "36",
+      "image": "./images/productosNuevos/animal-case.png",
+      "category": "latest"
+    },
+    {
+      "title": "Mechanical Keyboard RGB LED",
+      "price": "41.99",
+      "image": "./images/productosNuevos/teclado-rosado.png",
+      "category": "trend"
+    },
+    {
+      "title": "Style Gaming Chair",
+      "price": "700",
+      "image": "./images/productosNuevos/pink-chair.png",
+      "category": "featured"
+    },
+    {
+      "title": "Headphones with Shareport and Mic",
+      "price": "45",
+      "image": "./images/productosNuevos/pink-ear.png",
+      "category": "recent"
+    },
+    {
+      "title": "Gaming Chair",
+      "price": "320",
+      "image": "./images/productosNuevos/purple-chair.png",
+      "category": "trend"
+    },
+    {
+      "title": "Razer gaming headset Kraken Pro Neon",
+      "price": "35",
+      "image": "./images/productosNuevos/fucsia-ear.png",
+      "category": "featured"
+    },
+    {
+      "title": "Gaming Chair",
+      "price": "334",
+      "image": "./images/productosNuevos/purpleandwhite.png",
+      "category": "recent"
+    },
+    {
+      "title": "LightPro Pink Carrying Case for Nintendo Switch",
+      "price": "20",
+      "image": "./images/productosNuevos/pink-case.png",
+      "category": "trend"
+    },
+    {
+      "title": "Gaming Chair",
+      "price": "323",
+      "image": "./images/productosNuevos/turquesa-chair.png",
+      "category": "special"
+    },
+    {
+      "title": "MasterCase Mesh",
+      "price": "166",
+      "image": "./images/productosNuevos/purple-case.png",
+      "category": "special"
+    },
+    {
+      "title": "Mechanical Gaming Keyboard",
+      "price": "69",
+      "image": "./images/productosNuevos/pink-key.png",
+      "category": "special"
+    },
+    {
+      "title": "PowerA Enhanced Wired Controller for Nintendo Switch",
+      "price": "46",
+      "image": "./images/productosNuevos/animal-controller.png",
+      "category": "recent"
+    },
+    {
+      "title": "Metal Mesh Monitor Stand and Desk Organizer",
+      "price": "38",
+      "image": "./images/productosNuevos/pink-desk.png",
+      "category": "special"
+    },
+    {
+      "title": "Headphones Wired with Microphone and Volume Control",
+      "price": "34",
+      "image": "./images/productosNuevos/turquesa-ear.png",
+      "category": "latest"
+    },
+    {
+      "title": "Limelights LD1002-PNK",
+      "price": "24",
+      "image": "./images/productosNuevos/pink-lampara.png",
+      "category": "recent"
+    },
+    {
+      "title": "Blu Monaco Office Supplies",
+      "price": "31",
+      "image": "./images/productosNuevos/pink-accesorios.png",
+      "category": "latest"
+    },
+    {
+      "title": "Professional Keyboard Purple/Blue/Red LED",
+      "price": "21",
+      "image": "./images/productosNuevos/teclado-morado.png",
+      "category": "featured"
+    },
+    {
+      "title": "USB 1080P HD Webcam with Microphone",
+      "price": "24",
+      "image": "./images/productosNuevos/pink-camera.png",
+      "category": "latest"
+    }
+  ]
+}
