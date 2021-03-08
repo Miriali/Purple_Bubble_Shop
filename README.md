@@ -15,6 +15,7 @@ Basic knowledge of:
 
 :star2: Responsive web design
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e3ca9865-964e-4f52-a400-dfbaeb7fcf8b/deploy-status)](https://app.netlify.com/sites/purplebubble/deploys)
 
 ##### Screenshot  :camera_flash:
 
