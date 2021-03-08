@@ -3,6 +3,8 @@ Hello friends! :octocat:
 
 In this repository is the code of Purple Bubble Shop, a company that is dedicated to the sale of components and accessories for computers or related to the world of video games, it´s a beautiful and completely responsive, the design is simple and at the same time attractive and intuitive.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e3ca9865-964e-4f52-a400-dfbaeb7fcf8b/deploy-status)](https://purplebubble.netlify.app/)
+
 ### Requirements
 
 Basic knowledge of:
@@ -15,7 +17,6 @@ Basic knowledge of:
 
 :star2: Responsive web design
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e3ca9865-964e-4f52-a400-dfbaeb7fcf8b/deploy-status)](https://app.netlify.com/sites/purplebubble/deploys)
 
 ##### Screenshot  :camera_flash:
 
